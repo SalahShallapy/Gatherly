@@ -57,27 +57,27 @@
 
 ## Project Overview :
 
-### Cart Overview
+### Overview
 
 ![Project OverView](./public/overview.png)
 
-### Cart Overview
+### All Events Overview
 
 ![Events OverView](./public/eventsoverview.png)
 
-### Cart Overview
+### New Event Overview
 
 ![New Event OverView](./public/new.png)
 
-### Cart Overview
+### Event Detail Overview
 
 ![EventDetail OverView](./public/eventdetail.png)
 
-### Cart Overview
+### Edit Event Overview
 
 ![Edit Event OverView](<./public/Screenshot%20(262).png>)
 
-### Cart Overview
+### Delete Event Overview
 
 ![Delete Event OverView](./public/delete.png)
 
