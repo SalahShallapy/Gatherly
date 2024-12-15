@@ -30,18 +30,18 @@
 
 ### Event Management :
 
-- Navigate to /events to view all events.
+- Navigate to `/events` to view all events.
 - Use the "Create New Event" button to add an event.
 - Click on an event to view its details or edit it.
 - Use the search bar to find events matching your keywords.
 
 ### Routing :
 
-- Home (/): Redirects to /events.
-- Events (/events): Displays all available events.
-- New Event (/events/new): Allows adding a new event.
-- Event Details (/events/:id): View details of a specific event.
-- Edit Event (/events/:id/edit): Edit details of an existing event.
+- Home `(/)`: Redirects to /events.
+- Events `(/events)`: Displays all available events.
+- New Event `(/events/new)`: Allows adding a new event.
+- Event Details `(/events/:id)`: View details of a specific event.
+- Edit Event `(/events/:id/edit)`: Edit details of an existing event.
 
 ## Development Highlights
 
