@@ -6,6 +6,32 @@
 
 **Gatherly** is a feature-rich application for managing events using the power of React Router and React Query. The project showcases advanced routing capabilities, efficient server communication, and smooth user experience through state management and asynchronous operations.
 
+## Project Overview :
+
+### Overview
+
+![Project OverView](./public/overview.png)
+
+### All Events Overview
+
+![Events OverView](./public/eventsoverview.png)
+
+### New Event Overview
+
+![New Event OverView](./public/new.png)
+
+### Event Detail Overview
+
+![EventDetail OverView](./public/eventdetail.png)
+
+### Edit Event Overview
+
+![Edit Event OverView](<./public/Screenshot%20(262).png>)
+
+### Delete Event Overview
+
+![Delete Event OverView](./public/delete.png)
+
 ## Features
 
 ### **Data Management with React Query**
@@ -54,32 +80,6 @@
 
 - Implements nested routing for child components.
 - Supports URL parameters for dynamic routing.
-
-## Project Overview :
-
-### Overview
-
-![Project OverView](./public/overview.png)
-
-### All Events Overview
-
-![Events OverView](./public/eventsoverview.png)
-
-### New Event Overview
-
-![New Event OverView](./public/new.png)
-
-### Event Detail Overview
-
-![EventDetail OverView](./public/eventdetail.png)
-
-### Edit Event Overview
-
-![Edit Event OverView](<./public/Screenshot%20(262).png>)
-
-### Delete Event Overview
-
-![Delete Event OverView](./public/delete.png)
 
 ## Project Structure
 
